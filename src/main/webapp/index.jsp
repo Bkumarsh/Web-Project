@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi Advika Welcome to our Home</h2>
+<h2>Welcome to DevOps World</h2>
 </body>
 </html>
