@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to google can you help me</h2>
+<h2>Welcome to Jangal</h2>
 </body>
 </html>
